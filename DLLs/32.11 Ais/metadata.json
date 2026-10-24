@@ -1,0 +1,20 @@
+{
+  "name": "32.11 Ais",
+  "author": "Made by Unknown",
+  "cardDescription": "Chapter 5 season Remix Gameserver",
+  "description": "This gameserver has Ais!!(Reload)",
+  "version": "32.11",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    }
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "Remix-32.11.dll"
+  ]
+}

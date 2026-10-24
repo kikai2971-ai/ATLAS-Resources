@@ -1,0 +1,20 @@
+{
+  "name": "15.50 AIs",
+  "author": "Made by Unknown",
+  "cardDescription": "Chapter 2 season 5 ais",
+  "description": "idk dude",
+  "version": "15.50",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    }
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "Spectra-S15.50.dll"
+  ]
+}

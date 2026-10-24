@@ -1,0 +1,24 @@
+{
+  "name": "Reboot Original",
+  "author": "Made by Milxnor",
+  "cardDescription": "Reboot Original (Project Reboot 3.0) is Project Reboot's original game server DLL.",
+  "description": "Reboot Original (Project Reboot 3.0) is Project Reboot's original game server DLL.",
+  "version": "1-19",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    },
+    {
+      "type": "image",
+      "path": "Content/DLLPreview2.png"
+    }
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "Reboot%20Original.dll"
+  ]
+}

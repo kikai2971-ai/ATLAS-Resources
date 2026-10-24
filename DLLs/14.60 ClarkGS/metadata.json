@@ -1,0 +1,20 @@
+{
+  "name": "14.60 ClarkGS",
+  "author": "Made by Benzi",
+  "cardDescription": "Chapter 2 season 4 Gameserver",
+  "description": "This gameserver has Bosses , NPC!!",
+  "version": "14.60",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    }
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "14.60%20Benzi%20GS%20v3.dll"
+  ]
+}

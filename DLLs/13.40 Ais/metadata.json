@@ -1,0 +1,28 @@
+{
+  "name": "Riptide",
+  "author": "Modified by ralz",
+  "cardDescription": "Play Chapter 2, Season 3 with many features nearly perfectly accurate! Credits to @plooshi for Celestia base.",
+  "description": "Play Chapter 2, Season 3 with many features nearly perfectly accurate! Has 100 Player AIs, Patrolling Henchmen/Bosses, Sharks, Marauders, Rebooting/Teams, Jules' Glider Override, Shakedowns, and many other features!",
+  "version": "13.40",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    },
+	{
+      "type": "image",
+      "path": "Content/DLLPreview2.png"
+	},
+	{
+      "type": "image",
+      "path": "Content/DLLPreview3.png"
+	}
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "Riptide.dll"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "9.10 AIs",
+  "author": "Made by Unknown",
+  "cardDescription": "Chapter 1 season 9 ais",
+  "description": "idk dude",
+  "version": "9.10",
+  "tags": ["Game Server"],
+  "dataSlot": "gameserver",
+  "cardImage": "Content/DLLPreview.png",
+  "media": [
+    {
+      "type": "image",
+      "path": "Content/DLLPreview.png"
+    }
+  ],
+  "sourceUrl": "https://r2.kikai.win",
+  "files": [
+    "9.10%20AIs%20GS.dll"
+  ]
+}
